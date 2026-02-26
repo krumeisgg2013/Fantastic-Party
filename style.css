@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(0, 139, 9);
+    border-radius: 10px;
+    padding: 15px;
+}
+header a{
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    color:blue;
+    text-decoration: none;
+    background-color: crimson;
+}
+h1{
+    border:1px solid blueviolet;
+    border-radius: 15px;
+    color: cadetblue;
+    text-align: center;
+    font-size: 30px;
+}
+footer{
+    background-color: darkmagenta;
+    padding:10px;
+}
+footer p{
+    background-color: blue;
+    padding:5px;
+}
+nav{
+    padding:20px;
+    text-align: center;
+}
+nav a{
+    text-decoration:none;
+    background-color: blanchedalmond;
+    color: aqua;
+    padding:5px;
+    border-radius: 10px;
+    margin:20px;
+    border: 2px solid beige;
+    }
+    .first{
+        background-color: chartreuse;
+        color: chocolate;
+}
+.boja{
+    background-color: blue;
+    border-radius: 15px;
+    padding:5px;
+}
+h2{
+    font-size: 40px;
+    padding: 20px;
+    color:goldenrod;
+}
+
+
+
+
+
+    
